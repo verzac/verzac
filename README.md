@@ -2,7 +2,7 @@
 
 I mostly make web apps 🌐 and they're all hosted here on GitHub if they're in a working state (and they're not confidential). I also do a few open-source contribs here and there, but lately I've absolutely been smashed by working 2 jobs.
 
-My pinned repositories are my shiniest work/commits, so please do check them out!
+My pinned repositories are my shiniest work/commits, so please do check them out (instead of filtering through dead projects in my repo list)!
 
 If you're interested in reaching out to me, you can slide a DM onto my LinkedIn https://www.linkedin.com/in/benjamin-tanone/, or through GitHub if they finally get around to implementing DMs.
 
