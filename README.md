@@ -4,7 +4,7 @@ I mostly make web apps 🌐 and they're all hosted here on GitHub if they're in 
 
 My pinned repositories are my shiniest work/commits, so please do check them out!
 
-If you're interested in reaching out to me, you can slide a DM onto my LinkedIn https://www.linkedin.com/in/benjamin-tanone/, or when GitHub if they finally get around to implementing DMs.
+If you're interested in reaching out to me, you can slide a DM onto my LinkedIn https://www.linkedin.com/in/benjamin-tanone/, or through GitHub if they finally get around to implementing DMs.
 
 <!---
 verzac/verzac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
