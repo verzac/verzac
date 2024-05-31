@@ -1,6 +1,6 @@
 👋 Heyo, I'm Ben! I'm a software eng who has worked with tech products with various scales (from a teeny-tiny startup to a ginormous ASEAN unicorn).
 
-I mostly make web apps 🌐 and they're all hosted here on GitHub if they're in a working state (and they're not confidential). I also do a few open-source contribs here and there, but lately I've absolutely been smashed by working 2 jobs.
+I mostly make web apps 🌐 and they're all hosted here on GitHub if they're in a working state (and they're not confidential). I also do a few open-source contribs here and there.
 
 My pinned repositories are my shiniest work/commits, so please do check them out (instead of filtering through dead projects in my repo list)!
 
